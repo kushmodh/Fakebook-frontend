@@ -70,9 +70,6 @@ Metagram social media website, built using the MERN stack (MongoDB, Express.js, 
 <br/>
 <br/>
 
-## Friend List 
-![image](https://github.com/Pranay36/fakebook-frontend/assets/98728524/a44e4602-44c6-467b-a511-999d994835bf)
-
 
 
 
